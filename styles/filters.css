@@ -41,10 +41,12 @@
   left: 0;
   width: 16px;
   height: 17px;
-  background: url(/food-e-shop/assets/images/icons/pepper-icon.svg) center no-repeat;
+  background: url('asdadsdads') center no-repeat;
   background-size: cover;
   display: none;
 }
+
+
 
 .filters__slider:after {
   content: "";
