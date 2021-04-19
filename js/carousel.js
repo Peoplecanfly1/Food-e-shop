@@ -20,7 +20,7 @@ export default class Carousel {
           <span class="carousel__price">€${product.price.toFixed(2)}</span>
           <div class="carousel__title">${product.name}</div>
           <button type="button" class="carousel__button">
-            <img src="/assets/images/icons/plus-icon.svg" alt="icon">
+            <img src="./assets/images/icons/plus-icon.svg" alt="icon">
           </button>
         </div>
       </div>`;
