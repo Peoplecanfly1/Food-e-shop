@@ -68,7 +68,6 @@ export default class Cart {
   }
 
   renderProduct(product, count) {
-    console.log(count);
     return createElement(`
     <div class="cart-product" data-product-id="${product.id}">
       <div class="cart-product__img">
