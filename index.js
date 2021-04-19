@@ -34,7 +34,7 @@ export default class Main {
       .append(this.cartIcon.elem);
 
     // get products array
-    const productsPromise = await fetch("products.json");
+    const productsPromise = await fetch("./products.json");
     this.products = await productsPromise.json();
 
     this.productsGrid = new ProductsGrid(this.products);
