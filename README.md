@@ -1,2 +1,2 @@
-# food-e-shop
+# Food-e-shop
 VanillaJS +HTML +CSS. Class based approach
