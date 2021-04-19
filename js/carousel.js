@@ -13,7 +13,7 @@ export default class Carousel {
   #makeSlideLayout(product) {
     return `
      <div class="carousel__slide" data-id="${product.id}">
-        <img src="/assets/images/carousel/${
+        <img src="./assets/images/carousel/${
           product.image
         }" class="carousel__img" alt="slide">
         <div class="carousel__caption">
