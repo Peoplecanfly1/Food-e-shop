@@ -72,7 +72,7 @@ export default class Cart {
     return createElement(`
     <div class="cart-product" data-product-id="${product.id}">
       <div class="cart-product__img">
-        <img src="/assets/images/products/${product.image}" alt="product">
+        <img src="./assets/images/products/${product.image}" alt="product">
       </div>
       <div class="cart-product__info">
         <div class="cart-product__title">${escapeHtml(product.name)}</div>
