@@ -17,4 +17,4 @@ Development approaches:
 - Custom event adding for connection between different modules.
 
 
-[DEMONSTRATION](https://peoplecanfly1.github.io/food-e-shop/)  - to open this project please use Google Chrome. Transcompiller is not used to show original code.
+[DEMONSTRATION](https://peoplecanfly1.github.io/food-e-shop/)  - to open this project please use Google Chrome. Transcompiller is not to prevent code mofification.
