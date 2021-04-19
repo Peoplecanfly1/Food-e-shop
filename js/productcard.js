@@ -19,7 +19,7 @@ export default class ProductCard {
   #insertProductData() {
     return `
     <div class="card__top">
-      <img src="/assets/images/products/${
+      <img src="./assets/images/products/${
         this.product.image
       }" class="card__image" alt="product">
       <span class="card__price">€${this.product.price.toFixed(2)}</span>
