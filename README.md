@@ -12,7 +12,7 @@ This project has base functionality of internet shop:
 Development approaches:
 - Single module structuring 
 - Class based approach ( simple OOP)
-- Encapsulation (private methods) 
+- Encapsulation 
 - POST request + JSON ( initialization connection with server)
 - Custom event adding for connection between different modules.
 
