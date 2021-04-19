@@ -41,12 +41,10 @@
   left: 0;
   width: 16px;
   height: 17px;
-  background: url('asdadsdads') center no-repeat;
+  background: url('adas') center no-repeat;
   background-size: cover;
   display: none;
 }
-
-
 
 .filters__slider:after {
   content: "";
@@ -54,7 +52,7 @@
   right: 0;
   width: 48px;
   height: 17px;
-  background: url('asdasdasd') center repeat;
+  background: url(/food-e-shop/assets/images/icons/pepper-icon.svg) center repeat;
   display: none;
 }
 
