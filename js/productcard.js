@@ -27,7 +27,7 @@ export default class ProductCard {
     <div class="card__body">
       <div class="card__title">${this.product.name}</div>
       <button type="button" class="card__button">
-      <img src="/assets/images/icons/plus-icon.svg" alt="icon">
+      <img src="./assets/images/icons/plus-icon.svg" alt="icon">
       </button>
     </div>`;
   }

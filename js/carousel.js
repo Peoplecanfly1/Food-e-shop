@@ -99,10 +99,10 @@ export default class Carousel {
     this.elem = createElement(`
    <div class="carousel">
     <div class="carousel__arrow carousel__arrow_right">
-      <img src="/assets/images/icons/angle-icon.svg" alt="icon">
+      <img src="./assets/images/icons/angle-icon.svg" alt="icon">
     </div>
     <div class="carousel__arrow carousel__arrow_left">
-      <img src="/assets/images/icons/angle-left-icon.svg" alt="icon">
+      <img src="./assets/images/icons/angle-left-icon.svg" alt="icon">
     </div>
     <div class="carousel__inner">
       ${this.#makeSlidesLayout({ products: this.#slides })}
