@@ -13,8 +13,8 @@ Development approaches:
 - Single module structuring 
 - Class based approach ( simple OOP)
 - Encapsulation 
-- POST request + JSON ( initialization connection with server)
-- Custom event adding for connection between different modules.
+- POST request + JSON ( immitiation connection with server)
+- Custom events to connect different module of app.
 
 
 [DEMONSTRATION](https://peoplecanfly1.github.io/food-e-shop/)  - to open this project please use Google Chrome. Transcompiller is not used to prevent code modification.
