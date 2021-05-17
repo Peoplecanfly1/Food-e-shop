@@ -5,7 +5,7 @@ VanillaJS + HTML/CSS.
 This project has base functionality of internet shop: 
 - Carousel of product. 
 - Adding products to basket.
-- Sorting product according several parameters. 
+- Sorting product according multiple parameters. 
 - Remove products from basket.
 - Make an order(sending POST data to dummy server).
 
