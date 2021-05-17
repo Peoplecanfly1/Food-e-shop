@@ -9,7 +9,7 @@ This project has base functionality of internet shop:
 - Remove products from basket.
 - Make an order(sending POST data to dummy server).
 
-Development approaches:
+Development approaches/methods:
 - Single module structuring 
 - Class based approach ( simple OOP)
 - Encapsulation 
