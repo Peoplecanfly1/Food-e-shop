@@ -20,7 +20,7 @@ JS + HTML/CSS.
 - Complex logic of multiple parameters selection, like spiciness + category + nuts etc. 
 - Adaptive design
 
-To open this project please use desctop/mobile Google Chrome. Transcompiller is not used
+:exclamation: To open this project please use desctop/mobile Google Chrome. Transcompiller is not used
 
 ## [DEMONSTRATION](https://peoplecanfly1.github.io/Food-e-shop/)
 
