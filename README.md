@@ -7,7 +7,7 @@ This project has base functionality of internet shop:
 - Adding products to basket.
 - Sorting product according multiple parameters. 
 - Remove products from basket.
-- Make an order(sending POST data to dummy server).
+- Make + send an order(sending POST data to dummy server).
 
 Development approaches/methods:
 - Single module structuring 
