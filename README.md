@@ -18,6 +18,7 @@ JS + HTML/CSS.
 - POST request + JSON ( immitiation connection with server)
 - Listening custom events to connect different module of app. Sending product id from module to basket moodule.
 - Complex logic of multiple parameters selection, like spiciness + category + nuts etc. 
+- Adaptive design
 
 
 [DEMONSTRATION](https://peoplecanfly1.github.io/Food-e-shop/)  - to open this project please use desctop/mobile Google Chrome. Transcompiller is not used
