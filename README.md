@@ -1,20 +1,23 @@
 # Food-e-shop
 
-VanillaJS + HTML/CSS. 
+## Stack: 
+JS + HTML/CSS. 
 
-This project has base functionality of internet shop: 
-- Carousel of product. 
-- Adding products to basket.
-- Sorting product according multiple parameters. 
-- Remove products from basket.
-- Make + send an order(sending POST data to dummy server).
+## Functionality: 
+- Carousel of products with ability to add product to a basket.
+- Ribbon menu with selection product category. 
+- Product spiciness filtering.
+- Adding product to basket. 
+- Customization of product q-ty in a basket.
+- Send an order to shop.  
 
-Development approaches/methods:
-- Single module structuring 
-- Class based approach ( simple OOP)
+## Development approaches/features:
+- Class based approach (simple OOP) 
 - Encapsulation 
+- Deversification code on several modules for future reuse. ( carousel, basket, ribbon etc...)
 - POST request + JSON ( immitiation connection with server)
-- Custom events to connect different module of app.
+- Listening custom events to connect different module of app. Sending product id from module to basket moodule.
+- Complex logic of multiple parameters selection, like spiciness + category + nuts etc. 
 
 
 [DEMONSTRATION](https://peoplecanfly1.github.io/food-e-shop/)  - to open this project please use desctop/mobile Google Chrome. Transcompiller is not used
